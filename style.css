@@ -196,9 +196,6 @@ body {
     padding: 3rem 2rem;
     text-align: center;
     transition: 0.5s ease;
-    display: flex;
-    flex-direction: column;
-    height: 100%;
 }
 
 .works-box:hover {
