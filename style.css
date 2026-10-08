@@ -237,7 +237,7 @@ body {
 }
 
 .activity-list li a {
-    font-size: 1rem;
+    font-size: 1.5rem;
     color: var(--text-color);
     text-decoration: none;
     transition: 0.3s;
@@ -262,7 +262,7 @@ body {
 }
 
 .quiz-list li a {
-    font-size: 1rem;
+    font-size: 1.5rem;
     color: var(--text-color);
     text-decoration: none;
     transition: 0.3s;
