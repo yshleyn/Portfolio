@@ -186,7 +186,7 @@ body {
     grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 2rem;
     padding: 0 9%;
-    align-item: stretch;
+    align-items: stretch;
 }
 
 .works-box {
